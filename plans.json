@@ -13,5 +13,30 @@
     "name": "Iron Plan (Survival)",
     "price": "$5.99 / Mes",
     "url": "https://billing.nexaryhost.com/index.php?rp=/store/minecraft-hosting/iron-plan"
+  },
+  "gold": {
+    "name": "Gold Plan (Builder / SMP)",
+    "price": "$8.99 / Mes",
+    "url": "https://billing.nexaryhost.com/index.php?rp=/store/minecraft-hosting/gold-plan"
+  },
+  "diamond": {
+    "name": "Diamond Plan (Pro SMP)",
+    "price": "$12.99 / Mes",
+    "url": "https://billing.nexaryhost.com/index.php?rp=/store/minecraft-hosting/diamond-plan"
+  },
+  "obsidian": {
+    "name": "Obsidian Plan (Modded)",
+    "price": "$ / Mes",
+    "url": "#"
+  },
+  "netherite": {
+    "name": "Netherite Plan (Network)",
+    "price": "$ / Mes",
+    "url": "#"
+  },
+  "end": {
+    "name": "End Plan (Enterprise)",
+    "price": "$ / Mes",
+    "url": "#"
   }
 }
