@@ -7,22 +7,22 @@
   "cobblestone": {
     "name": "Cobblestone Plan (Casual)",
     "price": "$3.49 / Mes",
-    "url": "https://billing.nexaryhost.com/index.php?rp=/store/minecraft-hosting/stone-plan"
+    "url": "https://billing.nexaryhost.com/index.php?rp=/store/minecraft-hosting/cobblestone-plan-casual"
   },
   "iron": {
     "name": "Iron Plan (Survival)",
     "price": "$5.99 / Mes",
-    "url": "https://billing.nexaryhost.com/index.php?rp=/store/minecraft-hosting/iron-plan"
+    "url": "https://billing.nexaryhost.com/index.php?rp=/store/minecraft-hosting/iron-plan-survival"
   },
   "gold": {
     "name": "Gold Plan (Builder / SMP)",
     "price": "$8.99 / Mes",
-    "url": "https://billing.nexaryhost.com/index.php?rp=/store/minecraft-hosting/gold-plan"
+    "url": "https://billing.nexaryhost.com/index.php?rp=/store/minecraft-hosting/minecraft-hosting-gold-plan-builder-smp"
   },
   "diamond": {
     "name": "Diamond Plan (Pro SMP)",
     "price": "$12.99 / Mes",
-    "url": "https://billing.nexaryhost.com/index.php?rp=/store/minecraft-hosting/diamond-plan"
+    "url": "#"
   },
   "obsidian": {
     "name": "Obsidian Plan (Modded)",
