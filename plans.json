@@ -1,0 +1,17 @@
+{
+  "dirt": {
+    "name": "Dirt Plan (Starter)",
+    "price": "$1.79 / Mes",
+    "url": "https://billing.nexaryhost.com/index.php?rp=/store/minecraft-hosting/dirt-plan-starter"
+  },
+  "cobblestone": {
+    "name": "Cobblestone Plan (Casual)",
+    "price": "$3.49 / Mes",
+    "url": "https://billing.nexaryhost.com/index.php?rp=/store/minecraft-hosting/stone-plan"
+  },
+  "iron": {
+    "name": "Iron Plan (Survival)",
+    "price": "$5.99 / Mes",
+    "url": "https://billing.nexaryhost.com/index.php?rp=/store/minecraft-hosting/iron-plan"
+  }
+}
